@@ -1,6 +1,3 @@
-Below is a revised version of your README with some minor corrections and improvements for clarity and consistency:
-
-```markdown
 # Capital Asset Pricing Model (CAPM) Explorer
 
 ## 1. What Is This?
@@ -37,32 +34,3 @@ venv\Scripts\activate
 # macOS/Linux:
 source venv/bin/activate
 pip install -r requirements.txt
-```
-
-### 2.3 Launch Application
-```bash
-streamlit run capm_app.py
-```
-
-## 3. Features
-
-**Version 2 Highlights:**
-- 🧪 Three Practical Labs with preset parameters
-- 📈 Interactive beta range (-0.5 to 2.5)
-- 🎓 Challenge Zone portfolio case study
-- 📚 Embedded theory explanations
-- ⚡ Real-time SML visualization
-
-## 4. License & Ethics
-
-[![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/deed.en)
-
-**By Luís Simões da Cunha**  
-*Educational use only. Contains no financial advice.  
-See full disclaimer in the in-app sidebar.*
-
----
-
-[View Documentation](https://github.com/luiscunhacsc/capm_explained_v2/wiki) • [Report Issues](https://github.com/luiscunhacsc/capm_explained_v2/issues)
-```
-
